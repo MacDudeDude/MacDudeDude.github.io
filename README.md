@@ -1,2 +1,2 @@
 # MacDudeDude.github.io
-Itch profile page test inspired by team bugulon itch page.
+Itch social media icon links "inspired" by team bugulon itch page.
